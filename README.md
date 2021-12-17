@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning EVERYTHING 🤣
 - 💞️ I’m looking to collaborate with other talented creators!
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love hiking, boxing and my 16 tarantula✨
+- ⚡ Fun fact: I love hiking, boxing, and my 16 tarantulae✨
 
 <!---
 Jing0831/Jing0831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
