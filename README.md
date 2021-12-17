@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jingyi
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... YOU!👀
 - 🌱 I’m currently learning EVERYTHING 🤣
 - 💞️ I’m looking to collaborate with other talented creators!
 - 🥅 2022 Goals: Contribute more to Open Source projects
