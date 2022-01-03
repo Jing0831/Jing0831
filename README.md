@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jingyi
+- 👋 Hi, I’m Jingyi 
 - 👀 I’m interested in ... YOU!👀
 - 🌱 I’m currently learning EVERYTHING 🤣
 - 💞️ I’m looking to collaborate with other talented creators!
@@ -10,6 +10,7 @@ Jing0831/Jing0831 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ### Connect with me:
+[<img align="left" alt="My Resume" width="24px" src="https://github.com/Jing0831/Jing0831/blob/ed8022c717e70b676741e9a303511631d66ce284/icons8-resume-24.png" />][Resume]
 [<img align="left" alt="Jingyi W| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
@@ -29,3 +30,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 [linkedin]: https://www.linkedin.com/in/jingyi-wang-0228/
+[Resume]: https://docs.google.com/document/d/1sMpJZsKT-KgXOpZ38VC3T87_JmuC5Sli4HAVfd480eg/edit?usp=sharing
