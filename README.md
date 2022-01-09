@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 [linkedin]: https://www.linkedin.com/in/jingyi-wang-0228/
-[Resume]: https://docs.google.com/document/d/1sMpJZsKT-KgXOpZ38VC3T87_JmuC5Sli4HAVfd480eg/edit?usp=sharing
+[Resume]: https://github.com/Jing0831/My_Portfolio/blob/1ee21d63f70ad5ab35ce79e4eed020236e8f1efa/Jingyi_Resume_DataAnalyst_2022.pdf
